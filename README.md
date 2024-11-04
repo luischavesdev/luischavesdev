@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/luischavesdev/luischavesdev/master/img/banner.gif)
+![banner](/img/banner.gif?raw=true)
 
 # $\normalsize{\textsf{\color{orange}Hi there!}}$
 <p align="justify">
@@ -12,4 +12,4 @@
 
 
 # $\normalsize{\textsf{\color{orange}GitHub Stats}}$
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luischavesdev&theme=codeSTACKr&show_icons=true" />
+<img src="img/gh-stats.png?raw=true" width="400">
