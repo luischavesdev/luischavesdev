@@ -12,4 +12,4 @@
 
 
 # $\normalsize{\textsf{\color{orange}GitHub Stats}}$
-<img src="img/gh-stats.png?raw=true" width="450">
+<img src="img/gh-stats.png?raw=true" width="435">
