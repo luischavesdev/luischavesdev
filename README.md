@@ -13,3 +13,6 @@
 
 # $\normalsize{\textsf{\color{orange}GitHub Stats}}$
 <img src="img/gh-stats.png?raw=true" width="435">
+
+<!-- Banner shader by Shane (Triangle Grid Contouring) https://www.shadertoy.com/view/WtfGDX -->
+<!-- Stats' font by by David Kerkhoff (DK Cool Crayon Font) https://www.hanodedfonts.com/fonts/cool-crayon/ -->
